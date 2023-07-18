@@ -1,0 +1,8 @@
+this is just a test file
+add one line here
+let's add another line
+that's it.!!!
+done
+
+***************  Deployed on amplify  ***********
+project url: `https://dev.d23guhwq7ww6uy.amplifyapp.com`
